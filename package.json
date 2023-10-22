@@ -1,0 +1,14 @@
+{
+  "name": "purely-recipes",
+  "version": "1.0.0",
+  "description": "The goal of this project is to build an app that shows cooking recipes in a clear and sleek way without the clutter of a regular recipe website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
